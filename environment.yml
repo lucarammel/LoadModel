@@ -1,0 +1,11 @@
+name: iea_load_curve
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - seaborn
+  - pandas
+  - jupyterlab
+  - numpy
+  - scikit-learn
+  - statsmodels

@@ -1,0 +1,10 @@
+# local package
+-e .
+
+# external requirements
+pytorch-lightning
+holidays
+xlrd
+requests
+ipympl
+omegaconf
