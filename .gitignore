@@ -80,7 +80,7 @@ target/
 # exclude data from source control by default
 data/
 # Logs from model runs
-models/
+#models/
 
 # IEA ssl certificate
 docs/ieassl.crt
