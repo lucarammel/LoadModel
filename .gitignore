@@ -78,7 +78,7 @@ target/
 .ipynb_checkpoints/
 
 # exclude data from source control by default
-data/
+/data
 # Logs from model runs
 #models/
 
